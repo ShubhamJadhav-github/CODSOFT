@@ -1,2 +1,1 @@
-# CODSOFT
-Internship Tasks (Python Programming)
+Python Programming
